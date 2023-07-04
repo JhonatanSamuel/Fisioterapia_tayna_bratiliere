@@ -1,7 +1,7 @@
 <h1>Fisioterapia Tayná Bratiliere</h2>
 <br>
 <br>
-<h2>Projeto de freelancer para fisioterapeuta </h1>
+<h2>Projeto de freelancer </h1>
 <br>
 <br>
 <p>Projeto criado com as tecnologias:
@@ -15,4 +15,5 @@
 <br>
 <br>
 <h4> Imagem do projeto! </h4>
-<br>
+<br> 
+    <img src="https://github.com/JhonatanSamuel/Fisioterapia_tayna_bratiliere/blob/main/assets/para%20deploy.jpg?raw=true"/>
