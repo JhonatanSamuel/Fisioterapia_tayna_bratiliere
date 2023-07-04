@@ -3,6 +3,7 @@
 <br>
 <h2>Projeto de freelancer </h1>
 <br>
+<p>https://fisioterapia-tayna-bratiliere.vercel.app/</p>
 <br>
 <p>Projeto criado com as tecnologias:
 <br>
